@@ -1,6 +1,6 @@
 **Machine-Learning**
 
-**Student Details**
+**Student Details**<br />
 Student Name: Lakshmi Manasa Mallem <br />
 Student  ID: 700751605 <br />
 CRN: 31221 <br />
