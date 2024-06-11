@@ -23,4 +23,4 @@ Machine Learning assignment 3 is about implementing NumPy. NumPy is the fundamen
 **Short Description of Assignment 4**
 Machine Learning assignment 4 is about classification. Classification in supervised Machine Learning (ML) is the process of predicting the class or category of data based on predefined classes of data that have been 'labeled'. Labeled data is data that has already been classified.
 
-**Video Link** :
+**Video Link** : https://drive.google.com/file/d/1s7msIu-TKqhezwFUvCuHN3gBGv-UPQdr/view?usp=sharing
