@@ -19,3 +19,8 @@ Machine Learning Assignment 2 is about implementing the following concepts. 1.St
 Machine Learning assignment 3 is about implementing NumPy. NumPy is the fundamental package for scientific computing in Python. It is a Python library that provides a multidimensional array object, various derived objects (such as masked arrays and matrices), and an assortment of routines for fast operations on arrays, including mathematical, logical, shape manipulation, sorting, selecting, I/O, discrete Fourier transforms, basic linear algebra, basic statistical operations, random simulation and much more. 
 
 **Video Link**: https://drive.google.com/file/d/1PzrAJ8tnsADBhJSlC4s_GFY9Troji0_j/view?usp=sharing
+
+**Short Description of Assignment 4**
+Machine Learning assignment 4 is about classification. Classification in supervised Machine Learning (ML) is the process of predicting the class or category of data based on predefined classes of data that have been 'labeled'. Labeled data is data that has already been classified.
+
+**Video Link** :
